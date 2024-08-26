@@ -1,0 +1,19 @@
+{
+  "to_do_app": "أداء المهام",
+  "to_do_list": "قائمة المهام",
+  "settings": "إعدادات",
+  "language": "اللغة",
+  "theme_mode": "النمط",
+  "light": "نهاري",
+  "dark": "ليلي",
+  "task": "المهام",
+  "add_new_task": "إضافة مهمه جديدة",
+  "enter_task_title": "عنوان المهمة",
+  "enter_task_details": "تفاصيل المهمة",
+  "select_time": "حدد الوقت",
+  "save": "حفظ",
+  "please_enter_your_task_title": "من فضلك ادخل عنوان المهمة",
+  "please_enter_your_task_details": "من فضلك اضف تفاصيل المهمة",
+  "delete": "حذف",
+  "done": "تم!"
+}

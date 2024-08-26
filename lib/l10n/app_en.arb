@@ -1,0 +1,19 @@
+{
+  "to_do_app": "To Do App",
+  "to_do_list": "To Do List",
+  "settings": "Settings",
+  "language": "Language",
+  "theme_mode": "Mode",
+  "light": "Light",
+  "dark": "Dark",
+  "task": "Task",
+  "add_new_task": "Add new task",
+  "enter_task_title": "Enter your task title",
+  "enter_task_details": "Enter your task details",
+  "select_time": "Select time",
+  "save": "Save",
+  "please_enter_your_task_title": "Please enter your task title",
+  "please_enter_your_task_details": "Please enter your task details",
+  "delete": "Delete",
+  "done": "Done!"
+}
